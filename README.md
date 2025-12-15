@@ -39,7 +39,7 @@ Below are quick links to each task folder:
 | 07  | [task07](./task07) | Project Building, (Rock Paper Scissors Game) |
 | 08 | [task08](./task08)  | Execution Context (EC), Lexical Environment, Global Execution Context (GEC), GEC & FEC Examples, Memory Management with Call Stack and Heap |
 | 09  | [task09](./task09) | Misconception about Hoisting, Variable Hoisting, Temporal Dead Zone (TDZ), Funtional Hoisting, Hoisting and Function as an Expression  |
-| 09  | [task10](./task10) | Scope, Type of Scope, ScopeChain |
+| 10  | [task10](./task10) | Scope, Type of Scope, ScopeChain |
 | 00   | *(updated daily)*        | —                                        |
 
 > I’ll keep updating this table as I complete each day of the challenge.
