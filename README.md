@@ -15,6 +15,9 @@ tasks/
  ├── task05
  ├── task06
  ├── task07
+ ├── task08
+ ├── task09
+ ├── task10
  └── ...
  ```
 
@@ -34,6 +37,9 @@ Below are quick links to each task folder:
 | 05  | [task05](./task05) | Loop and Iteration, The for Loop, for Loop Flow Chart, Nested Loop, break and continue, Handling Multiple Counters, The while Loop, The do-while Loop, Infinite Loop |
 | 06  | [task06](./task06) | Function and Expression, Declare a function, call or invoke a function, function as an expression, **parameter and argument:** (default parameter, rest parameter), Nested function, Call-back function, Named function, Pure function, HOF, Arrow function, IIFE, Call Stack, Recursion,  |
 | 07  | [task07](./task07) | Project Building, (Rock Paper Scissors Game) |
+| 08 | [task08](./task08)  | Execution Context (EC), Lexical Environment, Global Execution Context (GEC), GEC & FEC Examples, Memory Management with Call Stack and Heap |
+| 09  | [task09](./task09) | Misconception about Hoisting, Variable Hoisting, Temporal Dead Zone (TDZ), Funtional Hoisting, Hoisting and Function as an Expression  |
+| 09  | [task10](./task10) | Scope, Type of Scope, ScopeChain |
 | 00   | *(updated daily)*        | —                                        |
 
 > I’ll keep updating this table as I complete each day of the challenge.
@@ -79,8 +85,9 @@ Constructive feedback is always welcome!
 
 ## ⏳ Progress
 
-**Progress: 7/40 Days Completed (17.5%)**
+**Progress: 10/40 Days Completed (25%)**
 
-████░░░░░░░░░░░░░░░░░
+█████░░░░░░░░░░░░░░░░
+
 
 
